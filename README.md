@@ -34,6 +34,16 @@ The goal of Acrobot is to reach the target height in as few steps as possible. E
 - python /Users/christopherallen/Desktop/Projects/psu-ai-572-deep-q-network/app.py
 
 ## Execution/Visualization
+- <img width="1346" height="776" alt="Screenshot 2026-07-31 at 9 11 24 AM" src="https://github.com/user-attachments/assets/9d26ccab-01e5-4a97-94ec-32609a50dc2d" />
+- <img width="1499" height="757" alt="Screenshot 2026-07-29 at 7 24 02 PM" src="https://github.com/user-attachments/assets/f6dbe9b3-d179-431e-ae6a-378e006f74d2" />
+- <img width="1495" height="758" alt="Screenshot 2026-07-29 at 7 24 12 PM" src="https://github.com/user-attachments/assets/b8a42573-e94a-43ce-bdc7-20e0ff1f6e37" />
+- <img width="1495" height="761" alt="Screenshot 2026-07-29 at 7 24 15 PM" src="https://github.com/user-attachments/assets/d0774a14-f489-4039-bfa8-2ddc4719d89f" />
+- <img width="1499" height="764" alt="Screenshot 2026-07-29 at 7 24 28 PM" src="https://github.com/user-attachments/assets/a3b93143-6a5b-4fa0-ba8f-feeb45563035" />
+
+
+
+
+
 
 
 
