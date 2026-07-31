@@ -1,5 +1,3 @@
-# psu-ai-572-deep-q-network
-
 # PSU AI-572 Deep Q-Network (DQN) Algorthm
 
 ## Tasks for Programming Assignment 3
